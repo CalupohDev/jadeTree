@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "898862576645",
+    "project_id": "jadetree-2b03f",
+    "storage_bucket": "jadetree-2b03f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898862576645:android:f855c512642ea3b480d86c",
+        "android_client_info": {
+          "package_name": "com.jadetree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898862576645-nekahnclvrf3pkgh0h9er9llpb1m9p7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jadetree",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "898862576645-k4htba5h6u4mi8nb27h82hv19edshaop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNr6Z2ZnN2NRC7YcHviQBOZRW9XB-h65A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898862576645-9bokfmpiqla1m5m9la0oanj1umj8vno8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

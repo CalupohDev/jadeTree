@@ -81,7 +81,7 @@ const primaryStyles = StyleSheet.create({
         shadowOpacity: 0
     },
     text: {
-        color: Colors.white,
+        color: Colors.primaryGreen,
         fontSize: moderateScale(18),
         fontWeight: "bold",
         marginHorizontal: moderateScale(10)
