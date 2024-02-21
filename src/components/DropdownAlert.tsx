@@ -1,6 +1,7 @@
 import React, { Component, ComponentProps } from "react";
 import { Animated, View, TouchableOpacity, Text, StyleSheet } from "react-native";
 
+// Icons
 import SuccessIcon from "@assets/SuccessIcon";
 import ErrorIcon from "@assets/ErrorIcon";
 import WarningIcon from "@assets/WarningIcon";
